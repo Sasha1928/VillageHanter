@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadScane.unity
+    guid: ba4a98d4bdbc73746b5887cf28d8fd26
+  - enabled: 1
+    path: Assets/Scenes/Loby.unity
+    guid: 745ac97414487344f912658d9e75087e
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 11b66b754207a9943b3a7ef929a86a7b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: c57180f2f05aa464583d067017412dd4
+  - enabled: 1
+    path: Assets/Scenes/BossArena.unity
+    guid: 90258632cb13a994795f710ff7b91eab
+  m_configObjects: {}
